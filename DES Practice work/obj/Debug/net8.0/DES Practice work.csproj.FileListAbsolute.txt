@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\bin\Debug\net8.0\DES Practice work.exe
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\bin\Debug\net8.0\DES Practice work.deps.json
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\bin\Debug\net8.0\DES Practice work.runtimeconfig.json
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\bin\Debug\net8.0\DES Practice work.dll
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\bin\Debug\net8.0\DES Practice work.pdb
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\DES Practice work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\DES Practice work.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\DES Practice work.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\DES Practice work.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\DES Practice work.dll
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\refint\DES Practice work.dll
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\DES Practice work.pdb
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\DES Practice work.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DES Practice work\DES Practice work\obj\Debug\net8.0\ref\DES Practice work.dll
