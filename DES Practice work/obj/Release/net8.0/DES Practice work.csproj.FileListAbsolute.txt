@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\DES Practice work\DES-Praktike\DES Practice work\obj\Release\net8.0\DES Practice work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DES Practice work\DES-Praktike\DES Practice work\obj\Release\net8.0\DES Practice work.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DES Practice work\DES-Praktike\DES Practice work\obj\Release\net8.0\DES Practice work.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DES Practice work\DES-Praktike\DES Practice work\obj\Release\net8.0\DES Practice work.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DES Practice work\DES-Praktike\DES Practice work\obj\Release\net8.0\DES Practice work.sourcelink.json

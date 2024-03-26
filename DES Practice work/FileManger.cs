@@ -11,7 +11,7 @@ namespace DES_Practice_work
 {
     public class FileManager
     {
-        private static string Path = "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES Practice work\\DESFile.txt";
+        private static string Path = "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\DESFile.txt";
 
         public async void WriteInFile(string Text)
         {

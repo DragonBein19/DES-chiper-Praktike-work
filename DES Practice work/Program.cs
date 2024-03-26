@@ -10,9 +10,10 @@ class Program
 {
     private static FileManager rwFile = new FileManager();
     private static KeyGeneratorManager Key = new KeyGeneratorManager();
-    private static ECBMode wECB = new ECBMode();
+    private static TextCoding wText = new TextCoding();
 
     private static string Choise, OriginalText;
+    private static string CurrentlyKey = "12345678";
     private static bool Cicle = true;
 
     private static void Main(string[] args)
@@ -27,7 +28,7 @@ class Program
 
     private static string Action_Chosen()
     {
-        Console.Write("\nChoose one of the options:\n\t1. Test the code and algorithm\n\t2. Encode the choising file\n\t3. Decode the choising file\n\t4. Update the text file\n\t5. Check the contents of a text file\n\t6. Return original text to text file\n\t7.close the program\nEnter ypur choice: ");
+        Console.Write("\nChoose one of the options:\n\t1. Test the code and algorithm\n\t2. Encode the choising file\n\t3. Decode the choising file\n\t4. Update the text file\n\t5. Check the contents of a text file\n\t6. Return original text to text file\n\t7.View current key\n\t8.Enter a new key\n\t9.Generate random key\n\t10.close the program\nEnter ypur choice: ");
         Choise = Console.ReadLine();
 
         return Choise;
@@ -50,7 +51,7 @@ class Program
                 break;
 
             case "4":
-                Console.Write("Please, entere the text: ");
+                Console.Write("\nPlease, entere the text: ");
                 OriginalText = Console.ReadLine();
                 rwFile.WriteInFile(OriginalText);
                 break;
@@ -65,11 +66,24 @@ class Program
                 break;
 
             case "7":
+                Console.WriteLine("\nCurrent key: " + CurrentlyKey);
+                break;
+
+            case "8":
+                Console.Write("\nEnter a new key: ");
+                CurrentlyKey = Console.ReadLine();
+                break;
+
+            case "9":
+                CurrentlyKey = Key.GenerationKey();
+                break;
+
+            case "10":
                 Cicle = false;
                 break;
 
             default:
-                Console.WriteLine("Data incorect. Try again");
+                Console.WriteLine("\nData incorect. Try again");
                 break;
         }
     }
@@ -82,11 +96,13 @@ class Program
         switch(Console.ReadLine())
         {
             case "1":
-                wECB.ECBMain(Choise, rwFile.ReadFromFile(), "12345678");
+                wText.ECBMain(Choise, rwFile.ReadFromFile(), CurrentlyKey, "ECB");
                 break;
             case "2":
+                wText.ECBMain(Choise, rwFile.ReadFromFile(), CurrentlyKey, "CBC");
                 break;
             case "3":
+                wText.ECBMain(Choise, rwFile.ReadFromFile(), CurrentlyKey, "CFB");
                 break;
             default:
                 break;

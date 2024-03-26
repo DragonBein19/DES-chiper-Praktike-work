@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|c:\\users\\administrator\\source\\repos\\des practice work\\des-praktike\\des practice work\\textcoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|solutionrelative:des practice work\\textcoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|c:\\users\\administrator\\source\\repos\\des practice work\\des-praktike\\des practice work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|solutionrelative:des practice work\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|c:\\users\\administrator\\source\\repos\\des practice work\\des-praktike\\des practice work\\filemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|solutionrelative:des practice work\\filemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|c:\\users\\administrator\\source\\repos\\des practice work\\des-praktike\\des practice work\\desfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|solutionrelative:des practice work\\desfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|c:\\users\\administrator\\source\\repos\\des practice work\\des-praktike\\des practice work\\keygeneratormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB43306-C29E-4729-BB09-458C4854DED0}|DES Practice work\\DES Practice work.csproj|solutionrelative:des practice work\\keygeneratormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileManger.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\FileManger.cs",
+              "RelativeDocumentMoniker": "DES Practice work\\FileManger.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\FileManger.cs",
+              "RelativeToolTip": "DES Practice work\\FileManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:13:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\Program.cs",
+              "RelativeDocumentMoniker": "DES Practice work\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\Program.cs",
+              "RelativeToolTip": "DES Practice work\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:45:44.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextCoding.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\TextCoding.cs",
+              "RelativeDocumentMoniker": "DES Practice work\\TextCoding.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\TextCoding.cs",
+              "RelativeToolTip": "DES Practice work\\TextCoding.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:45:54.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyGeneratorManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\KeyGeneratorManager.cs",
+              "RelativeDocumentMoniker": "DES Practice work\\KeyGeneratorManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\KeyGeneratorManager.cs",
+              "RelativeToolTip": "DES Practice work\\KeyGeneratorManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:00:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DESFile.txt",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\DESFile.txt",
+              "RelativeDocumentMoniker": "DES Practice work\\DESFile.txt",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\DESFile.txt",
+              "RelativeToolTip": "DES Practice work\\DESFile.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-25T17:12:12.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

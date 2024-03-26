@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES Practice work\\DES Practice work.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\DES Practice work.csproj",
       "projectName": "DES Practice work",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES Practice work\\DES Practice work.csproj",
+      "projectPath": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\DES Practice work.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES Practice work\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\source\\repos\\DES Practice work\\DES-Praktike\\DES Practice work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
